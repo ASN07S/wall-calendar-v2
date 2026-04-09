@@ -11,10 +11,10 @@
 ![Desktop Preview](./Preview.png)
 
 ## 🌑 Themes (Dark / Light )
-![Desktop Preview](./Dark.png)
+![Desktop Preview](./dark.png)
 
 ## 📅 Date, Notes and Event 
-![Desktop Preview](./date.png)
+![Desktop Preview](./Date.png)
 
 ## 🛬 Final with events 
 ![Desktop Preview](./Final.png)
@@ -139,20 +139,6 @@ npm run build
 npm start
 ```
 
----
-
-## ☁️ Deployment
-
-Deployed on **Vercel** — auto-detected as Next.js, zero configuration needed.
-
-```bash
-# Install Vercel CLI and deploy
-npx vercel
-```
-
-Or connect the GitHub repo directly at [vercel.com/new](https://vercel.com/new) for automatic deployments on every push to `main`.
-
----
 
 ## 🗺 How to Use
 
